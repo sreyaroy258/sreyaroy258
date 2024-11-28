@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sreya and I'm a ..., from West Bengal , India</h2>
+<h2 align="left">Hi 👋! My name is Sreya and I'm  from West Bengal , India</h2>
 
 ###
 
